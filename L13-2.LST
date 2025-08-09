@@ -1,0 +1,7 @@
+3000	org	3000h		;location where program will 
+				;load in RAM
+
+3000		b2 90	cpl p1.0	;complement Port 1, bit 0 
+				;(pin 1)
+3002		22	ret	;return to BASIC-52
+
