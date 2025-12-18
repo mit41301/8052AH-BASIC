@@ -1,5 +1,3 @@
-https://github.com/mit41301/8052AH-BASIC/blob/main/15455_front.jpg?raw=true
-
 
 This disk contains program listings from The Microcontroller Idea 
 Book by Jan Axelson. The file names are coded to the listing 
@@ -23,7 +21,3 @@ Phone: 608-241-5824
 Fax: 608-241-5848
 Email: jaxelson@lvr.com
 WWW: http://www.lvr.com
-
-
-                                                                                                                                                                                                                                                               "þüþ
-
