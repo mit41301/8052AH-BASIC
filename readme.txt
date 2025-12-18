@@ -1,3 +1,6 @@
+https://github.com/mit41301/8052AH-BASIC/blob/main/15455_front.jpg?raw=true
+
+
 This disk contains program listings from The Microcontroller Idea 
 Book by Jan Axelson. The file names are coded to the listing 
 numbers in the book.
@@ -22,4 +25,5 @@ Email: jaxelson@lvr.com
 WWW: http://www.lvr.com
 
 
-                                                                                                                                                                                                                                                               "þüþ
+                                                                                                                                                                                                                                                               "Ã¾Ã¼Ã¾
+
